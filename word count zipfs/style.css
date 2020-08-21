@@ -1,0 +1,19 @@
+#myChart{
+    background-color: #b2ebf2;
+}
+#table {
+    display: inline;
+    position: absolute;
+  }
+#contents * {
+    margin-left: 150px;
+    display: inline
+  }
+  #myChart {
+    height: 800px !important;
+    width: 1000px !important;
+    background-color: #b2ebf2;
+  }
+  body{
+      background-color: #eeeeee;
+  }
